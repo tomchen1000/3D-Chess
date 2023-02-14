@@ -18,7 +18,7 @@ Play our game at: https://edweenie123.github.io/3D-Chess/
 The move logic, checkmate+stalemate detection and AI were all programmed in C++ and were compiled to [WebAssembly](https://webassembly.org/) using [Emscripten](https://emscripten.org/docs/introducing_emscripten/about_emscripten.html) so that it could be run on the browser. The visual interface of the game was made using vanilla JavaScript, HTML and CSS. 
 
 ## Chess AI
-Our chess AI was made from scratch and uses the minimax algorithm with alpha-beta pruning for optimization.
+Our chess AI was written from scratch and uses the minimax algorithm with alpha-beta pruning for optimization.
 
 ## Installation
 To install and run the game locally:
